@@ -1,2 +1,2 @@
-# muz
-a music control system
+# Muz
+Muz (pronounced "muse") is a music control system.
